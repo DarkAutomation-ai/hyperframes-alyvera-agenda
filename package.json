@@ -1,0 +1,21 @@
+{
+  "name": "hyperframetests",
+  "version": "1.0.0",
+  "description": "Projeto base Hyperframes com uma intro vertical da Alyvera.",
+  "scripts": {
+    "preview": "hyperframes preview",
+    "lint": "hyperframes lint",
+    "render": "hyperframes render --output renders/alyvera-agenda.mp4"
+  },
+  "keywords": [
+    "hyperframes",
+    "video",
+    "animation",
+    "alyvera"
+  ],
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "hyperframes": "^0.4.11"
+  }
+}
