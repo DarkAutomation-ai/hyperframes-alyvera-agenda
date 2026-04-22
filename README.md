@@ -17,9 +17,10 @@ Projeto base em `Hyperframes` para uma intro vertical da Alyvera usando o bloco 
 
 ## Preview
 
-<video src="previews/alyvera-agenda.mp4" controls muted playsinline width="360"></video>
+[![Preview da composicao Alyvera Agenda](previews/alyvera-agenda.gif)](previews/alyvera-agenda.mp4)
 
-Arquivo do preview: `previews/alyvera-agenda.mp4`
+Preview em GIF: `previews/alyvera-agenda.gif`  
+Video original: `previews/alyvera-agenda.mp4`
 
 ## Observacoes
 
