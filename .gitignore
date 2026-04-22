@@ -80,3 +80,5 @@ Thumbs.db
 renders/
 *.mp4
 *.webm
+!previews/
+!previews/*.mp4

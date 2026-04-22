@@ -15,6 +15,12 @@ Projeto base em `Hyperframes` para uma intro vertical da Alyvera usando o bloco 
 - `assets/Alyvera_logo.png`: copia da logo usada no video
 - `hyperframes.json`: configuracao de paths do Hyperframes
 
+## Preview
+
+<video src="previews/alyvera-agenda.mp4" controls muted playsinline width="360"></video>
+
+Arquivo do preview: `previews/alyvera-agenda.mp4`
+
 ## Observacoes
 
 - O arquivo original `Alyvera_logo.png` na raiz foi preservado.
